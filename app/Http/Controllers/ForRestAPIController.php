@@ -114,7 +114,7 @@ class ForRestAPIController extends Controller
         if(!($user->id == auth()->user()->id)){
             return response()->json([
                 'status' => false,
-                'message' => 'Вы не можете менять данные книги другого автора.',
+                'message' => 'Вы не можете менять данные другого автора.',
             ], 401);
         }
         else{
