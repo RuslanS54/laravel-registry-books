@@ -20,7 +20,7 @@
 ![11](https://github.com/RuslanS54/laravel-registry-books/blob/main/image/11.PNG)
 ![12](https://github.com/RuslanS54/laravel-registry-books/blob/main/image/12.PNG)
 ![13](https://github.com/RuslanS54/laravel-registry-books/blob/main/image/13.png)
-![14](https://github.com/RuslanS54/laravel-registry-books/blob/main/image/14.PNG)
+![14](https://github.com/RuslanS54/laravel-registry-books/blob/main/image/14.png)
 ![15](https://github.com/RuslanS54/laravel-registry-books/blob/main/image/15.PNG)
 ![16](https://github.com/RuslanS54/laravel-registry-books/blob/main/image/16.png)
 ![17](https://github.com/RuslanS54/laravel-registry-books/blob/main/image/17.png)
